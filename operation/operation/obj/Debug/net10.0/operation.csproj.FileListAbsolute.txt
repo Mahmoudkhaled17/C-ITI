@@ -1,0 +1,14 @@
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\bin\Debug\net10.0\operation.exe
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\bin\Debug\net10.0\operation.deps.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\bin\Debug\net10.0\operation.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\bin\Debug\net10.0\operation.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\bin\Debug\net10.0\operation.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\refint\operation.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\operation.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day4\operation\operation\obj\Debug\net10.0\ref\operation.dll
