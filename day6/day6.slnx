@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="day6/day6.csproj" />
+  <Project Path="employee/employee.csproj" />
+</Solution>
