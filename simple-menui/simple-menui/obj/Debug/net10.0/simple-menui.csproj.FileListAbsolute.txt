@@ -1,0 +1,14 @@
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\bin\Debug\net10.0\simple-menui.exe
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\bin\Debug\net10.0\simple-menui.deps.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\bin\Debug\net10.0\simple-menui.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\bin\Debug\net10.0\simple-menui.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\bin\Debug\net10.0\simple-menui.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\refint\simple-menui.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\simple-menui.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\simple-menui\simple-menui\obj\Debug\net10.0\ref\simple-menui.dll
