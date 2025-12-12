@@ -1,0 +1,14 @@
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\bin\Debug\net10.0\with-myself.exe
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\bin\Debug\net10.0\with-myself.deps.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\bin\Debug\net10.0\with-myself.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\bin\Debug\net10.0\with-myself.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\bin\Debug\net10.0\with-myself.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\refint\with-myself.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\with-myself.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\with-myself\with-myself\obj\Debug\net10.0\ref\with-myself.dll

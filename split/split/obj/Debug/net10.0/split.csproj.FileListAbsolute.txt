@@ -1,0 +1,14 @@
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\bin\Debug\net10.0\split.exe
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\bin\Debug\net10.0\split.deps.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\bin\Debug\net10.0\split.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\bin\Debug\net10.0\split.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\bin\Debug\net10.0\split.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\refint\split.dll
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.pdb
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\split.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\c#\day2\split\split\obj\Debug\net10.0\ref\split.dll
